@@ -8,4 +8,4 @@ The one exception is the [Server-side website programming](https://developer.moz
 * https://github.com/mdn/express-locallibrary-tutorial
 * https://github.com/mdn/django-locallibrary-tutorial
 # Revision by meteornight
-I use the original repo as a starting base for my learning road of css.Thanks a lot to MDN.org.
+I decided to use the original repo combine with VS code as a starting base for my learning road of css. Thanks a lot to MDN.org.
